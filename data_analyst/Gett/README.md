@@ -1,6 +1,6 @@
 ### Тестовое задание в команду продуктовой аналитики, Gett.
 
-В папке с заданием два датасета. data_orders содержит выборку данных по заказам пользователей и включает такие колонки как:
+В папке с заданием [два датасета](https://github.com/obulygin/test_tasks/tree/master/data_analyst/Gett/data). data_orders содержит выборку данных по заказам пользователей и включает такие колонки как:
 
 
 | Field name  | Description |
@@ -20,4 +20,4 @@
 
 В момент когда клиент нажимать на кнопку "Заказать" в приложении, система матчинга подыскивает наиболее релевантых водителей и предлагаем им заказ. В задании предлагается исследовать некоторые метрики матчинга для заказов, которые не завершились успешно (клиент в итоге не получил машину).
 
-* Нужно дополнить файл `Matching Home Assignment for Candidates.ipynb`
+* Нужно дополнить файл [Matching Home Assignment for Candidates.ipynb](https://github.com/obulygin/test_tasks/blob/master/data_analyst/Gett/Matching%20Home%20Assignment%20for%20Candidates.ipynb)
