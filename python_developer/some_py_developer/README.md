@@ -3,7 +3,7 @@
 ### Задача 1: Что может быть проще SQL?
 
 Вам дана таблица в postgres, которая представляет из себя список сотрудников с их зарплатами и отделами.
-Необходимо написать запрос, который будет выбирать человека с максимальной зарплатой из каждого отдела. В качестве тестовых данных можете использовать [дамп таблицы](employee.sql).
+Необходимо написать запрос, который будет выбирать человека с максимальной зарплатой из каждого отдела. В качестве тестовых данных можете использовать [дамп таблицы](https://github.com/obulygin/test_tasks/blob/master/python_developer/some_py_developer/employee.sql).
 ```
 postgres=# \d employee
             Table "public.employee"
@@ -15,7 +15,7 @@ postgres=# \d employee
  salary     | integer               |
 Indexes:
     "employee_pkey" PRIMARY KEY, btree (id)
-
+```
 
 ### Задача 2: Smashing Wallpaper Downloader
 
