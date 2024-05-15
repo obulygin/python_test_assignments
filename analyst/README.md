@@ -6,7 +6,7 @@
 - Gett
 	- [Анализ матчинга заказов такси](Gett/assignment.md)
 - Неизвестные компании
-	- [Анализ недвижимости в США](analyst/Unknown/assignment.md)
+	- [Анализ недвижимости в США](Unknown/assignment.md)
 
 ***
 
