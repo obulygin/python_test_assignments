@@ -27,10 +27,16 @@
 - [JSON API для сайта объявлений](/developer/Avito_tech/assignment1.md)
 - [Стажер в Market Intelligence](/developer/Avito_tech/assignment2.md)
 - [HTTP-сервис с rate limit](/developer/Avito_tech/assignment3.md)
+- [Тестовое задание на позицию стажёра бекендера](/developer/Avito_tech/assignment4.md)
+- [Тестовое на позицию трейни](/developer/Avito_tech/assignment5)
 
 ###### Infotecs
 
 - [Асинхронное клиент-серверное приложение](/developer/Infotecs/assignment.md)
+
+###### Ivelum
+
+- [Простой http-proxy сервер](/developer/Ivelum/assignment.md)
 
 ###### Simlab
 
@@ -40,6 +46,10 @@
 ###### True Positive Lab
 
 - [Задание на позицию Server-Side Developer](/developer/True%20Positive%20Lab/assignment.md)
+
+###### WG_Forge
+
+- [Тестовое задание WG Forge (Backend)](/developer/WG_Forge/assignment.md)
 
 ###### Неизвестные компании
 
