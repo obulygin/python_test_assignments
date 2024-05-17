@@ -14,7 +14,7 @@
 
 ### ТЕСТОВЫЕ ДАННЫЕ
 
-- [csv таблица](/assets/telco-customer-churn.csv)
+- [csv таблица](telco-customer-churn.csv)
 
 ***
 

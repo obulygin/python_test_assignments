@@ -24,17 +24,17 @@
 ### ТЕСТОВЫЕ ДАННЫЕ
 
 - Данные для обучения
-	- [sales_train.csv](/assets/sales_train.csv) - индексы продаж по дням за период 2008 - 2017 (все начинаются с 1)
-	- [advert_train.csv](/assets/advert_train.csv) - рекламные акции в магазинах (обозначены 1 в соответствующую дату)
+	- [sales_train.csv](sales_train.csv) - индексы продаж по дням за период 2008 - 2017 (все начинаются с 1)
+	- [advert_train.csv](advert_train.csv) - рекламные акции в магазинах (обозначены 1 в соответствующую дату)
 - Данные для проверки
-	- [advert_test.csv](/assets/advert_test.csv) - рекламные акции на тестовом периоде
-	- [deploy_example.csv](/assets/deploy_example.csv) - формат данных в котором нужно построить прогноз продаж
+	- [advert_test.csv](advert_test.csv) - рекламные акции на тестовом периоде
+	- [deploy_example.csv](deploy_example.csv) - формат данных в котором нужно построить прогноз продаж
 
 ***
 
 ### ПРИМЕРЫ РЕШЕНИЙ
 
-1. [Jypiter solution](/assets/solution_2.ipynb)
+1. [Jypiter solution](solution_2.ipynb)
 ***
 
 **[Назад](/ml/README.md)**

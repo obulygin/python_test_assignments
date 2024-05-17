@@ -42,14 +42,14 @@ data\_offers - содержит пары номер заказа - ID оффер
 
 ### ТЕСТОВЫЕ ДАННЫЕ
 
-- [orders](/assets/data_orders.csv)
-- [offers](/assets/data_offers.csv)
+- [orders](data_orders.csv)
+- [offers](data_offers.csv)
 
 ***
 
 ### ПРИМЕРЫ РЕШЕНИЙ
 
-1. [Solution](/assets/solution_1.ipynb)
+1. [Solution](solution_1.ipynb)
 ***
 
 **[Назад](/analyst/README.md)**

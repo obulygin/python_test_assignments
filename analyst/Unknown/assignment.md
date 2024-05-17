@@ -76,7 +76,7 @@ with engine.begin() as conn:
 
 ### ТЕСТОВЫЕ ДАННЫЕ
 
-- [Файл базы данных](/assets/test_project.db)
+- [Файл базы данных](test_project.db)
 
 ***
 

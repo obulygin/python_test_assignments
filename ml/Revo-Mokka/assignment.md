@@ -15,13 +15,13 @@
 
 ### ТЕСТОВЫЕ ДАННЫЕ
 
-- [csv таблица](/assets/revo_ds_test_task.csv)
+- [csv таблица](revo_ds_test_task.csv)
 
 ***
 
 ### ПРИМЕРЫ РЕШЕНИЙ
 
-1. [Решение](/assets/solution_example.ipynb), [презентация](/assets/pres_example.pptx)
+1. [Решение](solution_example.ipynb), [презентация](pres_example.pptx)
 ***
 
 **[Назад](/ml/README.md)**

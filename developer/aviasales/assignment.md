@@ -24,8 +24,8 @@
 
 ### ТЕСТОВЫЕ ДАННЫЕ
 
-- [XML №1](/assets/RS_Via-3.xml)
-- [XML №2](/assets/RS_ViaOW.xml)
+- [XML №1](RS_Via-3.xml)
+- [XML №2](RS_ViaOW.xml)
 
 ***
 
