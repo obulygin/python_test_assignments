@@ -1,2 +1,0 @@
-# Avito\_tech
-
