@@ -2,7 +2,7 @@
 
 В этом репозитории собраны реальные тестовые задания по разным направлениям. 
 
-Если интересны полезные материалы по Python, то подписывайте на [PythonTalk в Telegram](https://t.me/pythontalk_ru).
+Если интересны полезные материалы по Python, то подписывайте на [PythonTalk в Telegram](https://t.me/pythontalk_ru).  
 И на мой [Boosty](https://boosty.to/obulygin) ;)
 
 ## Навигация
@@ -21,6 +21,10 @@
 
 #### [Разработка](/developer/README.md)
 
+###### Appstorespy
+
+- [Junior backend developer](Appstorespy/assignment.md)
+  
 ###### Aviasales
 
 - [Тестовое задание в команду гейтов](/developer/aviasales/assignment.md)
