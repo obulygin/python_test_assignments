@@ -23,7 +23,7 @@
 
 ###### Appstorespy
 
-- [Junior backend developer](Appstorespy/assignment.md)
+- [Junior backend developer](/developer/Appstorespy/assignment.md)
   
 ###### Aviasales
 
