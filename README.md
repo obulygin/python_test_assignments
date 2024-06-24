@@ -36,6 +36,7 @@
 - [HTTP-сервис с rate limit](/developer/Avito_tech/assignment3.md)
 - [Тестовое задание на позицию стажёра бекендера](/developer/Avito_tech/assignment4.md)
 - [Тестовое на позицию трейни](/developer/Avito_tech/assignment5)
+- [Тестовое задание для стажёра в команду VAS (2020)](/developer/Avito_tech/assignment6.md)
 
 ###### Infotecs
 
