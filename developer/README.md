@@ -12,6 +12,7 @@
 	- [HTTP-сервис с rate limit](Avito_tech/assignment3.md)
 	- [Тестовое задание на позицию стажёра бекендера](Avito_tech/assignment4.md)
 	- [Тестовое на позицию трейни](Avito_tech/assignment5)
+	- [Тестовое задание для стажёра в команду VAS (2020)](Avito_tech/assignment6.md)
 - Infotecs
 	- [Асинхронное клиент-серверное приложение](Infotecs/assignment.md)
 - Ivelum
