@@ -27,7 +27,7 @@
   
 ###### Apsolutions
 
-- [Стажёр Python (2022)]((/developer/Apsolutions/assignment.md)
+- [Стажёр Python (2022)](/developer/Apsolutions/assignment.md)
 
 ###### Aviasales
 
