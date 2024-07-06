@@ -25,6 +25,10 @@
 
 - [Junior backend developer](/developer/Appstorespy/assignment.md)
   
+###### Apsolutions
+
+- [Стажёр Python (2022)]((/developer/Apsolutions/assignment.md)
+
 ###### Aviasales
 
 - [Тестовое задание в команду гейтов](/developer/aviasales/assignment.md)

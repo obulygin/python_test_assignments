@@ -4,6 +4,8 @@
 ### Навигация
 - Appstorespy
 	- [Junior backend developer](Appstorespy/assignment.md)
+- Apsolutions
+	- [Стажёр Python (2022)](Apsolutions/assignment.md)
 - Aviasales
 	- [Тестовое задание в команду гейтов](aviasales/assignment.md)
 - Avito_tech
