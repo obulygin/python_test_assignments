@@ -40,7 +40,7 @@
 
 - [JSON API для сайта объявлений](/developer/Avito_tech/assignment1.md)
 - [Стажёр в Market Intelligence](/developer/Avito_tech/assignment2.md)
-- [Стажёр в Market Intelligence](/developer/Avito_tech/assignment8.md)
+- [Стажёр в Market Intelligence 2](/developer/Avito_tech/assignment8.md)
 - [HTTP-сервис с rate limit](/developer/Avito_tech/assignment3.md)
 - [Тестовое задание на позицию стажёра бекендера](/developer/Avito_tech/assignment4.md)
 - [Тестовое на позицию трейни](/developer/Avito_tech/assignment5)
