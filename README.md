@@ -20,6 +20,10 @@
 
 #### [Разработка](/developer/README.md)
 
+###### AppBooster
+
+- [Backend developer 2021](/developer/AppBooster/assignment.md)
+  
 ###### Appstorespy
 
 - [Junior backend developer](/developer/Appstorespy/assignment.md)
@@ -32,14 +36,16 @@
 
 - [Тестовое задание в команду гейтов](/developer/aviasales/assignment.md)
 
-###### Avito_tech
+###### AvitoTech
 
 - [JSON API для сайта объявлений](/developer/Avito_tech/assignment1.md)
-- [Стажер в Market Intelligence](/developer/Avito_tech/assignment2.md)
+- [Стажёр в Market Intelligence](/developer/Avito_tech/assignment2.md)
+- [Стажёр в Market Intelligence](/developer/Avito_tech/assignment8.md)
 - [HTTP-сервис с rate limit](/developer/Avito_tech/assignment3.md)
 - [Тестовое задание на позицию стажёра бекендера](/developer/Avito_tech/assignment4.md)
 - [Тестовое на позицию трейни](/developer/Avito_tech/assignment5)
 - [Тестовое задание для стажёра в команду VAS (2020)](/developer/Avito_tech/assignment6.md)
+- [Junior бекенд разработчик в юнит Авто (2021)](/developer/Avito_tech/assignment7.md)
 
 ###### Infotecs
 
