@@ -1,4 +1,4 @@
-# Простой http-proxy сервер.
+# Задание на позицию Python-разработчика 
 
 ***
 
@@ -43,7 +43,6 @@ common™ prefix™ (which contains the PDF header™, JPG stream™
 descriptor and some JPG headers), and a common™ suffix™ (containing
 image data and PDF display commands).
 ```
-
 ***
 
 ### ТРЕБОВАНИЯ
@@ -55,9 +54,5 @@ image data and PDF display commands).
 - чем меньше™ кода, тем лучше. PEP8 — обязательно;
 - если в условиях вам не хватает каких-то данных™, опирайтесь на здравый смысл.
 - Если задачу™ удалось сделать быстро™, и у вас еще остался энтузиазм - как насчет™ написания тестов™?
-
-
 ***
-
-### ПРИМЕРЫ РЕШЕНИЙ
 

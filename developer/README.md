@@ -23,6 +23,8 @@
 	- [Асинхронное клиент-серверное приложение](Infotecs/assignment.md)
 - Ivelum
 	- [Простой http-proxy сервер](Ivelum/assignment.md)
+- Phygitalism
+	- [Задание на позицию стажёра-разработчка (2020)](Phygitalism/assignment.md)
 - Simlab
 	- [Разработка консольных приложений](SIMLAB/assignment1.md)
 	- [Веб сервис на Django](SIMLAB/assignment2.md)
