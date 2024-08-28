@@ -53,7 +53,10 @@
 
 ###### Ivelum
 
-- [Простой http-proxy сервер](/developer/Ivelum/assignment.md)
+- [Задание на позицию Python-разработчика (2023)](/developer/Ivelum/assignment.md)
+
+###### Phygitalism
+- [Задание на позицию стажёра-разработчка (2020)](/developer/Phygitalism/assignment.md)
 
 ###### Simlab
 
@@ -91,7 +94,11 @@
 
 ###### S7
 
-- [Тестовое задание для кандидата DS](/ml/s7/assignment.md)
+- [Тестовое задание для кандидата DS (2019)](/ml/s7/assignment.md)
+
+###### Unknown
+
+- [Тестовое задание для Junior-разработчика (2023)](/ml/Unknown/assignment.md)
 
 ***
 
