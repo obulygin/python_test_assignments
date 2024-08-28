@@ -53,7 +53,7 @@
 
 ###### Ivelum
 
-- [Простой http-proxy сервер](/developer/Ivelum/assignment.md)
+- [Задание на позицию Python-разработчика (2023)](/developer/Ivelum/assignment.md)
 
 ###### Phygitalism
 - [Задание на позицию стажёра-разработчка (2020)](/developer/Phygitalism/assignment.md)

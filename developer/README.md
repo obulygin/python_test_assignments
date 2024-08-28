@@ -22,7 +22,7 @@
 - Infotecs
 	- [Асинхронное клиент-серверное приложение](Infotecs/assignment.md)
 - Ivelum
-	- [Простой http-proxy сервер](Ivelum/assignment.md)
+	- [Задание на позицию Python-разработчика (2023)](Ivelum/assignment.md)
 - Phygitalism
 	- [Задание на позицию стажёра-разработчка (2020)](Phygitalism/assignment.md)
 - Simlab
